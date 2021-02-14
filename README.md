@@ -1,1 +1,1 @@
-# To imrpove my understanding of how Git works
+# Few simple examples to better understand some concepts in python
